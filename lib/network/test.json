@@ -1,0 +1,287 @@
+{
+  "status": "ok",
+  "totalResults": 68,
+  "articles": [
+
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Elon Musk says 'I have too much work on my plate' - Reuters",
+      "description": "Billionaire Elon Musk said on Monday he was working \"at the absolute most amount...from morning til night, seven days a week\" when asked about his recent acquisition of Twitter and his leadership of automaker Tesla Inc <a href=\"https://www.reuters.com/compani…",
+      "url": "https://www.reuters.com/technology/elon-musk-says-i-have-too-much-work-my-plate-2022-11-14/",
+      "urlToImage": "https://www.reuters.com/resizer/RRAuxbBn6-Wf5oLA4El8vtwZdzw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5SVUJWJ23FI2XEWUDB3ZI446OE.jpg",
+      "publishedAt": "2022-11-14T05:50:00Z",
+      "content": "NUSA DUA, Indonesia, Nov 14 (Reuters) - Billionaire Elon Musk said on Monday he was working \"at the absolute most amount...from morning til night, seven days a week\" when asked about his recent acqui… [+3097 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "Investing.com"
+      },
+      "author": "Reuters",
+      "title": "Shares mixed on Fed warning, China acts on property By Reuters - Investing.com",
+      "description": "Shares mixed on Fed warning, China acts on property",
+      "url": "https://www.investing.com/news/stock-market-news/asia-shares-pause-as-fed-warns-against-exuberance-2942466",
+      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPECBE0OL_L.jpg",
+      "publishedAt": "2022-11-14T05:15:00Z",
+      "content": "By Wayne Cole\r\nSYDNEY (Reuters) - Asian share markets were mixed on Monday as a top U.S. central banker warned investors against getting carried away over one inflation number, while Chinese stocks g… [+3966 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "TheStreet"
+      },
+      "author": "Luc Olinga",
+      "title": "Elon Musk Humiliates a Former Star CEO - TheStreet",
+      "description": "The billionaire recently bought Twitter, which densified his already busy schedule.",
+      "url": "https://www.thestreet.com/technology/elon-musk-humiliates-a-former-star-ceo",
+      "urlToImage": "https://www.thestreet.com/.image/t_share/MTY4NTE3OTMyMjE2MDM1MDk1/wework-reportedly-looking-to-tap-t-mobiles-john-legere-to-run-troubled-startup.png",
+      "publishedAt": "2022-11-14T04:16:26Z",
+      "content": "Elon Musk is non conventional. \r\nHe alone manages five companies, each of which plays an important role in their respective sector.\r\nThe stature of the billionaire also adds pressure, as his detracto… [+3677 chars]"
+    },
+
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Kelsey Vlamis",
+      "title": "Video: Woman with baby threatens to kill United flight attendant - Business Insider",
+      "description": "A woman carrying a baby on a red-eye flight from San Francisco to Chicago was captured on video telling a flight attendant, \"I will kill you.\"",
+      "url": "https://www.businessinsider.com/video-woman-with-baby-threatens-kill-united-flight-attendant-2022-11",
+      "urlToImage": "https://i.insider.com/6371b75ef5877200181ca847?width=1200&format=jpeg",
+      "publishedAt": "2022-11-14T04:07:25Z",
+      "content": "A woman carrying a baby on a red-eye flight from San Francisco to Chicago early Sunday morning was captured on video confronting a flight attendant and threatening to kill her.\r\nThe video, which has … [+1685 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Jim Cramer",
+      "title": "Jim Cramer: Why the two-day rally to end last week is significant — and what to expect next - CNBC",
+      "description": "Back-to-back winners on Thursday and Friday seem like a big deal, especially in light of the collapse of crypto exchange FTX.",
+      "url": "https://www.cnbc.com/2022/11/13/cramer-why-the-two-day-rally-to-end-last-week-is-significant-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107149878-1668101121304-nyse6.jpg?v=1668398764&w=1920&h=1080",
+      "publishedAt": "2022-11-14T04:06:00Z",
+      "content": "Let's say you wanted to design a program to lower inflation. Wouldn't you do exactly what Federal Reserve Chair Jerome Powell is doing? You would be raising rates aggressively, and I defy you to say … [+7631 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Evelyn Cheng",
+      "title": "Alibaba's Cainiao opens LatAm headquarters in Brazil - CNBC",
+      "description": "The expansion comes as China's retail growth has slowed — Alibaba for the first time didn't release total sales for its Singles' Day shopping festival.",
+      "url": "https://www.cnbc.com/2022/11/14/alibabas-cainiao-opens-latam-headquarters-in-brazil.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107150218-1668139123845-IMG_5503.jpg?v=1668396408&w=1920&h=1080",
+      "publishedAt": "2022-11-14T03:26:00Z",
+      "content": "Alibaba's logistics arm Cainiao has installed lockers in Brazil for local customers to retrieve packages.\r\nBEIJING Alibaba's logistics arm Cainiao announced Monday the opening of its Latin American h… [+2387 chars]"
+    },
+
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Lingling Wei, Cao Li, Stella Yifan Xie",
+      "title": "China Dials Back Property Restrictions in Bid to Reverse Economic Slide - The Wall Street Journal",
+      "description": "Partial easing of housing-sector rules comes as Beijing also seeks to lessen economic toll of strict Covid controls",
+      "url": "https://www.wsj.com/articles/china-dials-back-property-restrictions-in-bid-to-reverse-economic-slide-11668361719",
+      "urlToImage": "https://images.wsj.net/im-665275/social",
+      "publishedAt": "2022-11-14T03:16:00Z",
+      "content": null
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "Bitcoin.com"
+      },
+      "author": "Kevin Helms",
+      "title": "Conflicting Reports Emerge About SEC Helping Bankrupt Crypto Exchange FTX With Legal Loopholes – Regulation Bitcoin News - Bitcoin News",
+      "description": "Conflicting reports have surfaced about whether the SEC and Chair Gary Gensler helped FTX and Sam Bankman-Fried with legal loopholes.",
+      "url": "https://news.bitcoin.com/conflicting-reports-emerge-about-sec-helping-bankrupt-crypto-exchange-ftx-with-legal-loopholes/",
+      "urlToImage": "https://static.news.bitcoin.com/wp-content/uploads/2022/11/gensler-sbf.jpg",
+      "publishedAt": "2022-11-14T03:02:12Z",
+      "content": "The U.S. Securities and Exchange Commission (SEC) reportedly met with crypto exchange FTX and former CEO Sam Bankman-Fried several times before the crypto firm filed for bankruptcy. SEC Chairman Gary… [+5129 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "CoinDesk"
+      },
+      "author": "Bradley Keoun",
+      "title": "After Bitcoin's Worst Week in Five Months, Here's What Crypto Analysts Are Saying - CoinDesk",
+      "description": "A roundup of commentary on how digital-asset market analysts see the next few months unfolding.",
+      "url": "https://www.coindesk.com/markets/2022/11/14/after-bitcoins-worst-week-in-five-months-heres-what-crypto-analysts-are-saying/",
+      "urlToImage": "https://www.coindesk.com/resizer/dDPqPNQEYQIfGyEFvribl6WrDN8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YWIF444R4NC6BDUZZFP6PJVAGY.png",
+      "publishedAt": "2022-11-14T02:45:00Z",
+      "content": "Please note that ourprivacy policy,terms of use,cookies, anddo not sell my personal informationhas been updated.\r\nThe leader in news and information on cryptocurrency, digital assets and the future o… [+538 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "Cointelegraph"
+      },
+      "author": "Brayden Lindrea",
+      "title": "CZ and Saylor urge for crypto self-custody amid increasing uncertainty - Cointelegraph",
+      "description": "The FTX crisis has highlighted the need for self-custody solutions, according to two industry leaders, with recent events seeing large outflows from centralized exchanges and significant inflows into self-custody wallets.",
+      "url": "https://cointelegraph.com/news/cz-and-saylor-urge-for-crypto-self-custody-amid-increasing-uncertainty",
+      "urlToImage": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMTEvZTBiOWI5MDQtM2ZlNS00Y2JhLWE4OWItNGI5N2E2NDJjNzg5LmpwZw==.jpg",
+      "publishedAt": "2022-11-14T02:43:55Z",
+      "content": "Industry heavyweights have urged crypto investors and traders to self-custody their crypto assets amid the significant market uncertainty brought on by the collapse of FTX. \r\nIn a Nov. 13 tweet to hi… [+4263 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Elon Musk Apologises For Twitter. Here's Why - NDTV",
+      "description": "Twitter's new boss Elon Musk on Sunday apologised for the microblogging site being \"super slow\" in several countries. His apology came minutes after he said, \"Twitter feels increasingly alive.\"",
+      "url": "https://www.ndtv.com/world-news/elon-musk-apologises-for-twitter-heres-why-3517326",
+      "urlToImage": "https://c.ndtvimg.com/2022-11/hh3vsktg_elon-musk-afp_625x300_14_November_22.jpg",
+      "publishedAt": "2022-11-14T02:42:11Z",
+      "content": "Elon Musk said Twitter Blue will probably be back by the \"end of next week.\" (File)\r\nTwitter's new boss Elon Musk on Sunday apologised for the microblogging site being \"super slow\" in several countri… [+1110 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Abigail Ng",
+      "title": "Hong Kong stocks jump 2% in mixed Asia session, Softbank shares drop 13% - CNBC",
+      "description": "Shares in the Asia-Pacific were mixed on Monday after closing the previous week with a huge rally.",
+      "url": "https://www.cnbc.com/2022/11/14/asia-markets-china-covid-currencies-oil-economic-data.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106731261-1601965681026-gettyimages-1228102589-364102131_1-2.jpeg?v=1668399201&w=1920&h=1080",
+      "publishedAt": "2022-11-14T02:06:00Z",
+      "content": "The U.S.-China relationship is the \"world's most important bilateral\" one, and it is fraught with tension but Washington can change that, according to Jeffrey Sachs, professor at Columbia University.… [+665 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Lora Kolodny",
+      "title": "SpaceX just bought a big ad campaign on Twitter for Starlink - CNBC",
+      "description": "Elon Musk's aerospace business SpaceX just ordered one of the larger advertising packages available from Twitter.",
+      "url": "https://www.cnbc.com/2022/11/14/spacex-just-bought-a-big-ad-campaign-on-twitter-for-starlink.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107109898-1661517964898-elon3.jpg?v=1668389976&w=1920&h=1080",
+      "publishedAt": "2022-11-14T01:39:00Z",
+      "content": "SpaceX founder Elon Musk during a T-Mobile and SpaceX joint event on August 25, 2022 in Boca Chica Beach, Texas.\r\nElon Musk's aerospace business SpaceX has ordered one of the larger advertising packa… [+4968 chars]"
+    },
+
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Visa has terminated global debit card agreements with FTX - Reuters",
+      "description": "Visa Inc <a href=\"https://www.reuters.com/companies/V.N\" target=\"_blank\">(V.N)</a>, the world's largest payments processor, said on Sunday it was severing its global credit card agreements with collapsed crypto exchange FTX.",
+      "url": "https://www.reuters.com/technology/visa-has-terminated-global-debit-card-agreements-with-ftx-2022-11-14/",
+      "urlToImage": "https://www.reuters.com/resizer/AyKNsU5D3lZCrDuz3KEJ2BhVnyY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TG3ZZFRXWZK5XJQYUWC5FRALFQ.jpg",
+      "publishedAt": "2022-11-14T01:29:00Z",
+      "content": "NEW YORK, Nov 13 (Reuters) - Visa Inc (V.N), the world's largest payments processor, said on Sunday it was severing its global credit card agreements with collapsed crypto exchange FTX.\r\n\"The situati… [+488 chars]"
+    },
+
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "By Maggie Hiufu Wong and Tetsu Sukegawa, CNN",
+      "title": "These Japanese beef croquettes are so popular there's a 30-year waitlist - CNN",
+      "description": "If you order a box of frozen Kobe beef croquettes from Asahiya, a family-run butcher shop in Takasago City in Japan's western Hyogo Prefecture, today, it'll take another 30 years before you receive your order.",
+      "url": "https://www.cnn.com/travel/article/japan-kobe-beef-croquettes-30-year-waitlist/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/221104125702-01-japanese-beef-croquettes-super-tease.jpg",
+      "publishedAt": "2022-11-14T01:24:47Z",
+      "content": "Editor's Note Sign up for Unlocking the World, CNN Travel's weekly newsletter. Get news about destinations opening, inspiration for future adventures, plus the latest in aviation, food and drink, whe… [+7808 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "CoinDesk"
+      },
+      "author": "Bradley Keoun, Sam Reynolds, James Rubin",
+      "title": "First Mover Asia: Extreme Fear Hits Crypto as FTX Hack Makes Bad Situation Worse. What Comes Next? - CoinDesk",
+      "description": "ALSO: Sam Reynolds takes a fresh look at the U.S. Securities and Exchange Commission's case against Ripple, where a 2018 SEC official’s speech notes may prove crucial.",
+      "url": "https://www.coindesk.com/markets/2022/11/14/first-mover-asia-extreme-fear-hits-crypto-as-ftx-hack-makes-bad-situation-worse-what-comes-next/",
+      "urlToImage": "https://www.coindesk.com/resizer/3T4lRASY_DTaYeth00WcEMtZEFE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/L3C6THJL3ZGS3N6JIJLJHAKQ2M.jpeg",
+      "publishedAt": "2022-11-14T01:17:00Z",
+      "content": "Good morning. Heres whats happening:\r\nPrices: Last week's calamitous collapse of the FTX exchange sent crypto markets for their worst seven-day stretch since the mid-June aftermath of the Terra block… [+9079 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Bradford Betz",
+      "title": "Elizabeth Holmes trial: federal prosecutors seeking 15 years for Theranos fraud - Fox Business",
+      "description": "Federal prosecutors are asking a judge to sentence disgraced Theranos CEO Elizabeth Holmes to 15 years in prison for lying to investors and putting patients' safety at risk.",
+      "url": "https://www.foxbusiness.com/technology/elizabeth-holmes-trial-federal-prosecutors-seeking-15-years-theranos-fraud",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/10/0/0/holmes.jpg?ve=1&tl=1",
+      "publishedAt": "2022-11-14T00:27:30Z",
+      "content": "Federal prosecutors on Friday filed a briefing asking a judge to sentence Theranos CEO Elizabeth Holmes to 15 years in prison for duping investors out of hundreds of millions of dollars. \r\nIn the 46-… [+2518 chars]"
+    },
+
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Nick Timiraos",
+      "title": "Fed Official Warns Inflation Fight Has 'Ways to Go' - The Wall Street Journal",
+      "description": "Markets cheered a report of better inflation last week, but Fed governor Waller cautions against an overreaction",
+      "url": "https://www.wsj.com/articles/fed-official-warns-inflation-fight-has-ways-to-go-11668383889",
+      "urlToImage": "https://images.wsj.net/im-664687/social",
+      "publishedAt": "2022-11-14T00:20:00Z",
+      "content": "The Federal Reserve needs to keep raising interest rates to get inflation under control, even after last weeks report that it slowed in October, a central bank official said Sunday.\r\nMarkets rallied … [+385 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "WMUR Manchester"
+      },
+      "author": "Jessica Kisluk",
+      "title": "Keene Hannaford recalls certain ground beef sold Saturday - WMUR Manchester",
+      "description": "Certain store-brand ground beef sold from a Keene Hannaford is being recalled because it may contain foreign material.",
+      "url": "https://www.wmur.com/article/keene-hannaford-recall-ground-beef-new-hampshire/41946707",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ground-beef-recall-0124-1668382525.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2022-11-13T23:48:00Z",
+      "content": "KEENE, N.H. —Certain store-brand ground beef sold from a Keene Hannaford is being recalled because it may contain foreign material. \r\nThe grocery store is recalling Hannaford brand 80% and 85% ground… [+350 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "David Hollerith",
+      "title": "Crypto.com's errant $405M transaction triggers investors after FTX fiasco - Yahoo Finance",
+      "description": "Crypto exchange Crypto.com is under the microscope after sending $405 million to the wrong recipient.",
+      "url": "https://finance.yahoo.com/news/cryptocom-ftx-fiasco-233855168.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/GzxF1vYyUsb6M3rMLTFnlw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-11/2134ae90-40e2-11ec-bb8f-4ca2d1458de7",
+      "publishedAt": "2022-11-13T23:38:55Z",
+      "content": "Crypto exchange Crypto.com is under the microscope after sending $405 million to the wrong recipient, raising alarm bells among crypto watchers after the whirlwind unraveling this week of competitor … [+3767 chars]"
+    }
+  ]
+
+}
